@@ -65,7 +65,7 @@ if (session_status() == PHP_SESSION_NONE) {
             <form action="" method="post">
                 <h1>Sign in</h1>
                 
-                <span>to use your account</span>
+                <span>to use your compte</span>
                 <input type="email" placeholder="Email"   name="email" required/>
                 <input type="password" placeholder="Password" name="password" required />
                 <a href="inscrir.php">Forgot your password?</a>
